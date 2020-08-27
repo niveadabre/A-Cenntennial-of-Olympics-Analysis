@@ -1,0 +1,7 @@
+## Project Topic : A-Cenntennial-of-Olympics-Analysis
+
+## Project Objective :
+120 Years of Olympics History Analysis using Tableau Desktop for data visualization and Tableau Prep for data pre-processing.The first Olympics was held in Athens in 1896 after that 28 summer Olympics and 23 winter Olympics held. My topic is exploratory data analysis of 120 years of Olympics data dating from 1896 to 2016 collected from the Kaggle website. The main aim of the analysis is to find the hidden information or pattern in the data. Since the Olympics have evolved over the years, the question will include subjects like the participation and performance of athletes, different nations, and different sports and events. The exploratory analysis of the data is carried out using the Tableau Prep and Tableau Desktop software.
+
+## Dataset Description :
+The data for the analysis is obtained from the Kaggle website. The data is spread across two files "athlete_events.csv" and "noc_regions.csv". The first file contains the information about the athletes and the events and the other contains the mapping of the country name to the National Olympic Committees (NOC) code. The athlete and event dataset contain 271116 rows and 15 columns which includes id, name, sex, age, height, weight, team, NOC, games, year, season, city, sport, event and medal. The NOC dataset contains 230 rows and 3 columns which includes NOC code, region and note.
